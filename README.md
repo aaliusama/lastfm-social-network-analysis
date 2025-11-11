@@ -1,6 +1,6 @@
 # LastFM Asia Social Network Analysis
 
-A comprehensive social network analysis of Last.fm users from Asian countries, exploring community structures, network dynamics, and user behavior patterns through graph analytics.
+Project is comprehensive social network analysis of Last.fm users from Asian countries, exploring community structures, network dynamics, and user behavior patterns through graph analytics.
 
 ## Overview
 
@@ -30,20 +30,6 @@ Last.fm Asia social network dataset collected from the public API (March 2020).
 - `lastfm_asia_target.csv`: User locations (multinomial node classification task)
 - `lastfm_asia_features.json`: User features based on liked artists
 
-### Citation
-```bibtex
-@misc{rozemberczki2020characteristic,
-      title={Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models},
-      author={Benedek Rozemberczki and Rik Sarkar},
-      year={2020},
-      eprint={2005.07959},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-**FEATHER Paper**: https://arxiv.org/abs/2005.07959
-**FEATHER Project**: https://github.com/benedekrozemberczki/FEATHER
 
 ## Repository Structure
 
