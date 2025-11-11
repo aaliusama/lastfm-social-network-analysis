@@ -160,10 +160,7 @@ This analysis methodology can be applied to:
 - **Semantic Analysis**: Cluster communities by music genre preferences
 - **Influence Modeling**: Cascade effects and information diffusion patterns
 
-## Author
 
-**Usama Ali**
-[GitHub](https://github.com/aaliusama) | [LinkedIn](https://linkedin.com/in/aaliusama)
 
 ## License
 
